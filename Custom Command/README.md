@@ -78,20 +78,15 @@ Here are the commands tested:
 
 ## 📸 Screenshots
 
-- ./mygrep.sh hello testfile.txt
-  ![image](https://github.com/user-attachments/assets/becaf57c-4f10-4fef-b1b2-6b71ed57c706)
+- ./mygrep.sh hello testfile.txt ![image](https://github.com/user-attachments/assets/becaf57c-4f10-4fef-b1b2-6b71ed57c706)
 
-- ./mygrep.sh -n hello testfile.txt
-  ![image](https://github.com/user-attachments/assets/943be2e7-cf13-4d6b-b6d1-5254060a2445)
+- ./mygrep.sh -n hello testfile.txt ![image](https://github.com/user-attachments/assets/943be2e7-cf13-4d6b-b6d1-5254060a2445)
 
-- ./mygrep.sh -vn hello testfile.txt
-  ![image](https://github.com/user-attachments/assets/5a12d72c-87e9-44aa-9d51-b89b460edb0e)
+- ./mygrep.sh -vn hello testfile.txt ![image](https://github.com/user-attachments/assets/5a12d72c-87e9-44aa-9d51-b89b460edb0e)
 
-- ./mygrep.sh -v testfile.txt
-  ![image](https://github.com/user-attachments/assets/0bcc8b1d-7dc8-4fa8-9bbf-3d6bf35fbc62)
+- ./mygrep.sh -v testfile.txt  ![image](https://github.com/user-attachments/assets/0bcc8b1d-7dc8-4fa8-9bbf-3d6bf35fbc62)
 
-- ./mygrep.sh --help
-  ![image](https://github.com/user-attachments/assets/0a206344-ec24-4eae-8133-208c09606a6c)
+- ./mygrep.sh --help ![image](https://github.com/user-attachments/assets/0a206344-ec24-4eae-8133-208c09606a6c)
   
 
  
