@@ -211,8 +211,8 @@ ping internal.example.com
 **Example Output:**
 expected output
 ```
-PING internal.example.com (192.168.1.50) 56(84) bytes of data.
-64 bytes from 192.168.1.50: icmp_seq=1 ttl=64 time=0.556 ms
+PING internal.example.com (<Server IP>) 56(84) bytes of data.
+64 bytes from <Server IP>: icmp_seq=1 ttl=64 time=0.556 ms
 ```
 
 ---
