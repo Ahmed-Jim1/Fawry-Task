@@ -91,7 +91,7 @@ Here are the commands tested:
 ### 🔹 Command: `./mygrep.sh -vn hello testfile.txt`
 ![image](https://github.com/user-attachments/assets/5a12d72c-87e9-44aa-9d51-b89b460edb0e)
 
---
+---
 
 ### 🔹 Command: `./mygrep.sh -v testfile.txt`
 ![image](https://github.com/user-attachments/assets/0bcc8b1d-7dc8-4fa8-9bbf-3d6bf35fbc62)
