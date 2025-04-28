@@ -36,6 +36,9 @@ Here are the commands tested:
 ./mygrep.sh -n hello testfile.txt
 ./mygrep.sh -vn hello testfile.txt
 ./mygrep.sh -v testfile.txt
+./mygrep.sh --help
+./mygrep.sh hello ahmed.txt
+
 ```
 
 ---
