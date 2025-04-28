@@ -231,7 +231,7 @@ Add or modify:
 
 ```
 [Resolve]
-DNS=192.168.1.1
+DNS=<DNS IP>
 FallbackDNS=8.8.8.8
 ```
 
