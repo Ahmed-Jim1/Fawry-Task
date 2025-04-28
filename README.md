@@ -42,4 +42,23 @@ Through this task, I practiced and strengthened my skills in:
 - Building user-friendly CLI tools
 
 This mini-project not only simulated how powerful command-line utilities work under the hood, but also gave me a deeper appreciation of shell scripting techniques.
+---
+## Task 2 ( Scenario )
+
+This task simulates troubleshooting a DNS and network connectivity issue for an internal web dashboard (`internal.example.com`).  
+The service was reported as "up," but users received "host not found" errors, indicating a DNS resolution problem.
+
+The task involves:
+
+- **Verifying DNS resolution** using both the system's configured DNS servers and public DNS servers (like 8.8.8.8).
+- **Diagnosing service reachability** by checking if the web service is accessible over HTTP (port 80) or HTTPS (port 443).
+- **Identifying all possible causes** at both the DNS and network layers that could lead to connectivity failures.
+- **Proposing and applying fixes** for each identified issue, using Linux troubleshooting commands.
+
+### 🎯 Bonus steps:
+- **Bypassing DNS temporarily** using the `/etc/hosts` file.
+- **Configuring persistent DNS settings** using `systemd-resolved` or `NetworkManager`.
+
+This exercise strengthens practical troubleshooting skills and demonstrates the full workflow of diagnosing, isolating, and resolving a real-world DevOps incident.
+
 
