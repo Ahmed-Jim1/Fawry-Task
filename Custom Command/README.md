@@ -100,6 +100,13 @@ Here are the commands tested:
 
 ### 🔹 Command: `./mygrep.sh --help`
 ![image](https://github.com/user-attachments/assets/0a206344-ec24-4eae-8133-208c09606a6c)
+
+---
+
+### 🔹 Command: `./mygrep.sh hello ahmed.txt > this file is not exist`
+![image](https://github.com/user-attachments/assets/31c8891a-8749-4dc4-8f2b-a7ec068eb612)
+
+
   
 
  
